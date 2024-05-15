@@ -10,4 +10,4 @@ console.log(arr);
 console.log(arr1);
 arr1.pop()
 console.log(arr1);
-console.log(arr2);
+console.log(arr);
